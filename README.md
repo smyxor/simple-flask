@@ -88,3 +88,8 @@ Completing the project involves several steps:
 For more detail about each of these steps, see the project lesson.
 
 ## Added comments
+
+Changed the wrong aws-auth-patch.yml file
+/Users/user/VscodeProjects/cd0157-Server-Deployment-and-Containerization/aws-auth-patch.yml
+instead of
+/System/Volumes/Data/private/tmp/aws-auth-patch.yml
