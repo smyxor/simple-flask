@@ -93,3 +93,4 @@ Changed the wrong aws-auth-patch.yml file
 /Users/user/VscodeProjects/cd0157-Server-Deployment-and-Containerization/aws-auth-patch.yml
 instead of
 /System/Volumes/Data/private/tmp/aws-auth-patch.yml
+used the wrong account id
