@@ -89,6 +89,8 @@ For more detail about each of these steps, see the project lesson.
 
 ## Added comments
 
+External address for service a8024865d0e9042b5bb10b18033799c4-983229530.us-east-2.elb.amazonaws.com
+
 Changed the wrong aws-auth-patch.yml file
 /Users/user/VscodeProjects/cd0157-Server-Deployment-and-Containerization/aws-auth-patch.yml
 instead of
